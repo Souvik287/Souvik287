@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souvik287
 - 👀 I’m interested in obviously coding
-- 🌱 I’m currently learning C and kotlin
+- 🌱 I’m currently learning Java and C#
 - 😄 Pronouns: he/him
 
 <!---
